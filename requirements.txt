@@ -1,0 +1,4 @@
+python-telegram-bot>=21.0,<23.0
+python-docx>=1.1.0
+python-dotenv>=1.0.0
+lxml>=5.0
